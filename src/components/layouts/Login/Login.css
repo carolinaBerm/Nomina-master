@@ -62,26 +62,6 @@ html {
   justify-content: center;
   gap: 30px;
 }
-/* .section-inputs {
-    display: flex;
-    gap: 20px;
-    width: 100%;
-    border-radius: 1%;
-    flex-direction: column;
-    font-family: "Lucida Console", Courier, monospace;
-  }
-  label input {
-    width: 100%;
-    background-color: #86e7f8;
-    border: solid 1px transparent;
-    padding: 9px 15px;
-    border-radius: 8px;
-    outline: none;
-    font-size: 14pt;
-    color: #7777f3;
-    font-family: "Lucida Console", Courier, monospace;
-    font-size: 15px;
-  } */
 
 .section-inputs {
   display: flex;
